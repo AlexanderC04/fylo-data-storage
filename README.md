@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/AlexanderC04/fylo-data-storage.git)
+- Live Site URL: (https://alexanderc04.github.io/fylo-data-storage/)
 
 ## My process
 
